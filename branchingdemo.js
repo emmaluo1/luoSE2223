@@ -19,3 +19,4 @@ let currentDate = "The current date is: " + month + " " + day + ", " + year
 
 console.log(d)
 console.log("The date is: " + d)
+console.log("From dev")
