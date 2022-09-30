@@ -1,4 +1,8 @@
 /*--------- Class CSS --------- */
+.adjust-width {
+    max-width: 300px;
+}
+
 .adjust-height {
     max-height: 400px;
 }
