@@ -1,4 +1,7 @@
 /*--------- Class CSS --------- */
+.adjust-height {
+    max-height: 400px;
+}
 
 .procedure-font{
     font-size: 1.1rem;
