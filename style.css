@@ -68,8 +68,12 @@ img#ovPadLeft{
 
 /* ------- Media Queries --------- */
 @media only screen and (max-width: 992px) {
-    img {
+    .adjust-height {
         max-height: 400px;
+    }
+
+    .adjust-width {
+        max-width: 400px;
     }
 
 }
